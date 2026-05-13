@@ -15,4 +15,4 @@ An interactive 'Air Canvas' built with OpenCV and NumPy that allows users to dra
 
 * **Multi-Color Support:** Switch between 4 distinct colors seamlessly.
 * **Live Calibration:** On-the-fly HSV adjustment to work with any colored object.
-* **Dual Display:** View your drawing on both the live camera feed and a clean white canvas..
+* **Dual Display:** View your drawing on both the live camera feed and a clean white canvas.
